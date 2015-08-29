@@ -1,5 +1,5 @@
 {
-  "name": "smarcet/jose4php",
+  "name": "jcwatson11/jose4php",
   "description": "JWT, JWS, JWE, JWA and JWK implementation in PHP",
   "keywords": [
     "JSON Web Token", "JSON Web Signature", "JSON Web Encryption", "JSON Web Algorithms",
